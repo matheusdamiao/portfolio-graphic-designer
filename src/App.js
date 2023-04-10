@@ -7,6 +7,7 @@ import HeroSection from './components/HeroSection';
 import Avatar from './components/Avatar'
 import Projetos from './components/Projetos'
 
+
 function App() {
   return (
     <>
@@ -25,6 +26,7 @@ function App() {
         
 
         <HeroSection>
+          
           <Avatar/>
 
         </HeroSection>
